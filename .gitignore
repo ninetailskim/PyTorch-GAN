@@ -8,5 +8,8 @@ data/*/
 implementations/*/data
 implementations/*/images
 implementations/*/saved_models
+implementations_papa/*/data
+implementations_papa/*/images
+implementations_papa/*/saved_models
 
 __pycache__
